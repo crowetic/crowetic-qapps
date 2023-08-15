@@ -1,0 +1,25 @@
+/* src/components/Block1.css */
+.block1 {
+    display: flex;
+    gap: 20px;
+    margin: 20px;
+    padding-top: 60px;
+  }
+  
+  .left-column {
+    flex: 1;
+  }
+  
+  .left-column img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .right-column {
+    flex: 2;
+  }
+  
+  .right-column p {
+    font-size: 16px;
+  }
+  

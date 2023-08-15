@@ -1,0 +1,12 @@
+.login-header {
+    padding: 20px;
+    background-color: darkgrey;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .account-info {
+    display: flex;
+    gap: 20px;
+  }
